@@ -23,7 +23,7 @@
 [<img align="left" alt="IvanAusten | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="IvanAusten | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/1high_van?igsh=cWw3bjJneG1mNHRs&utm_source=qr
+[instagram]: https://www.instagram.com/dev._.ivan?igsh=cWw3bjJneG1mNHRs&utm_source=qr
 [linkedin]: https://linkedin.com/
 
 <!--
