@@ -16,7 +16,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/IvanPitt/Decrypter-POC)
   - [Keylogger with Email Capability](https://github.com/IvanPitt/KeyLogger-with-Email-)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/IvanPitt/Package-Delivery-Application)
 
 <h2> 🤳 Connect with me:</h2>
 
