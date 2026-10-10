@@ -25,7 +25,7 @@ I build security tools and automation in Python, C#, and PowerShell, and I'm com
 - **Custom tools:** small Windows desktop utilities (C#/.NET)
 - **Web apps:** React + Node.js front/back ends
 
-[Message me easily on Whatsapp]("https://wa.me/message/LQ2GS7JS42GFD1") with a short description of what you need.
+[Message me easily on Whatsapp](https://wa.me/message/LQ2GS7JS42GFD1) with a short description of what you need.
 
 ---
 
